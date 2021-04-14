@@ -7,3 +7,4 @@ This website was made by following an advanced CSS and SASS course on Udemy. Ths
 - Building complex component using a mix of CSS Grid and flexbox
 - Resizing and reordering components for different screensizes
 
+A live link to this project can be found here: https://catherinestirk97.github.io/nexters-website/
